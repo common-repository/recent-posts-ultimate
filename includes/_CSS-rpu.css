@@ -1,0 +1,19 @@
+.rpu {
+	padding: 4px;
+}
+
+.rpuTitle {
+	font-size: 1.13em;
+	font-weight: bold;
+}
+
+.rpuDate {
+	font-size: 0.85em;
+	font-weight: lighter;
+	font-style: normal;
+	padding-left: 5px;
+}
+
+.rpuContent {
+	margin-top: 10px;
+}
